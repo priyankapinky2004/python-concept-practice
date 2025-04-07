@@ -1,5 +1,0 @@
-elephant
-giraffe
-python
-jazz
-astronaut
