@@ -40,10 +40,12 @@ Welcome to **Python Mini Projects**, a curated collection of beginner to interme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-mini-projects.git
-   cd python-mini-projects/Simple_Project
+   git clone https://github.com/priyankapinky2004/python-concept-practice.git
+   cd python-concept-practice/Simple_Project
 2. Run any script:
-python filename.py
+ ```bash
+   python filename.py
+```
 
 📚 Recommended Learning Path
 Start with:
